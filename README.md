@@ -36,7 +36,7 @@ An experimental simple rostering tool running purely in the browser and built us
 
 Some of her previous projects include
 
-  *  [RemediSG](https://www.remedisg.com), a healthcare platform that uses AI to help patients manage their health, a winning project of the BuildForGood 2024 Hackathon [featured](https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation) during the Prime Minister's launch of Singapore's SmartNation 2.0 initative.
+  *  [RemediSG](https://www.remedisg.com), a healthcare platform that uses AI to help with medication redistribution, a winning project of the BuildForGood 2024 Hackathon [featured](https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation) during the Prime Minister's launch of Singapore's SmartNation 2.0 initative.
   *  [TechLadies](https://techladies.co/), a community that supports women in tech - Website maintainer and community manager.
   *  [The Cult of Bak Chor Mee](https://www.facebook.com/bcmisawesome/), a facebook community for Bak Chor Mee lovers.
 
