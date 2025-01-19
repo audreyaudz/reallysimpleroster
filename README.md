@@ -18,7 +18,6 @@ An experimental simple rostering tool running purely in the browser and built us
 * [TailwindCSS](https://tailwindcss.com)
 * [Lucide](https://lucide.dev) icons
 * Hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
-
 * Public Holidays retrieved via API from  [data.gov.sg](https://data.gov.sg/collections/691/view).
 * Logos and Images created using [Recraft](https://replicate.com/recraft-ai/recraft-v3-svg?)
 
@@ -32,7 +31,7 @@ An experimental simple rostering tool running purely in the browser and built us
 
 ## Author
 
-<img src="/audrey.jpg" className="w-32 h-32 rounded-full aspect-square" /> [Audrey Kon](https://audrey.kon.sg) is a health care professional, innovator and software developer with a deep passion for using technology to remove barriers.
+<img src="/audrey.jpg" className="w-32 h-32 rounded-full aspect-square" /> [Audrey Kon](https://www.linkedin.com/in/audreykon) is a health care professional, innovator and software developer with a deep passion for using technology to remove barriers.
 
 Some of her previous projects include
 
